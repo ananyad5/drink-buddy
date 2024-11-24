@@ -17,8 +17,9 @@ This is a python program that reminds you to drink water every 40 mins! Gotta be
 3. Clone or download the repository:
    
    ```` git clone git@github.com:ananyad5/drink-buddy.git ````
+   
    ```` cd drink-buddy ````
-4. Run the program:
+5. Run the program:
    
    ```` python3 main.py ````
 6. Customize the intervals (if needed):
