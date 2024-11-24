@@ -18,9 +18,9 @@ This is a python program that reminds you to drink water every 40 mins! Gotta be
 3. Run the program
    ```` python3 main.py ````
 4. Customize the intervals (if needed)
-    Edit the interval and reminders variables in main.py:
-    interval: Time between reminders in seconds (default: 40 * 60 for 40 minutes).
-    reminders: Total number of reminders (default: 16).
+    Edit the interval and reminders variables in main.py: 
+    1. interval: Time between reminders in seconds (default: 40 * 60 for 40 minutes).
+    2. reminders: Total number of reminders (default: 16).
 
 5. Troubleshooting:
    macOS: Ensure your terminal/IDE has permission to send notifications. Go to your notification settings and enable notifications for your IDE.
